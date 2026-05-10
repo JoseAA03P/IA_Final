@@ -1,0 +1,7 @@
+metrica,valor
+accuracy,94.4444
+precision_macro,1.0000
+recall_macro,1.0000
+f1_macro,1.0000
+tasa_rechazo,5.5556
+avg_pred_ms,5.2075
