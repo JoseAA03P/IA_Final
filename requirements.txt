@@ -1,0 +1,7 @@
+# Dependencias del Sistema de Reconocimiento Facial – UDLAP
+# Instalar con:  pip install -r requirements.txt
+
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0   # necesario para cv2.face (LBPH)
+numpy>=1.24.0
+matplotlib>=3.7.0              # opcional, solo para evaluate.py --save-plots
